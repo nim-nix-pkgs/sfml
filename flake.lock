@@ -219,11 +219,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668749040,
-        "narHash": "sha256-07NwDbzDNTi+gvf1vD/2fkyfqy6l3BT0QSlDP2B8TsI=",
+        "lastModified": 1668754799,
+        "narHash": "sha256-xc820u/kj0llB5GZRaOx2RSW60djiKVuc2p9DPOEA2U=",
         "owner": "nim-nix-pkgs",
         "repo": "sfml",
-        "rev": "6220725c75015ff097d397d98d1dee521f67ec0c",
+        "rev": "04cd224cfaa5c430dee5a1c4b273cd5e0bfb005d",
         "type": "github"
       },
       "original": {
